@@ -3,13 +3,13 @@
 **sysda.sh** is a Bash script that provides an interactive menu for quick system, network, and security checks—everything an admin needs, all in one place.  
 The menu is easily modifiable, so you can add or change options to suit your workflow.
 
-> I made this for quick checks—especially on mobile SSH—without typing every command.
+> 💬 I made this for quick checks—especially on mobile SSH—without typing every command.
 
 ---
 
 ## 🖼️ Screenshot
 
-<img src="assets/screenshot.png" alt="sysda.sh Menu Screenshot" width="50%" />
+<img src="assets/screenshot.png" alt="sysda.sh Menu Screenshot" width="100%" />
 
 ---
 
