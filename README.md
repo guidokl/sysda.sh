@@ -9,7 +9,7 @@ The menu is easily modifiable, so you can add or change options to suit your wor
 
 ## 🖼️ Screenshot
 
-
+<img src="assets/screenshot.png" alt="sysda.sh Menu Screenshot" width="100%" />
 
 ---
 
